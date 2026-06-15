@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://forum.affinity.serif.com/uploads/monthly_2023_02/521125230_AffinityDesignerUITooSmall.png.648b73e4b4aaa4fdda79f240f6a07e5e.png" alt="Affinity Designer — macOS vector graphic design screenshot" width="780"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/sRBfvSJwHXEMjFDwVBMP5d.jpg" alt="Affinity Designer — macOS vector graphic design screenshot" width="780"/>
 </p>
 
 ---
